@@ -1,10 +1,10 @@
-package com.calificacion.services;
+package com.msvc.calificacion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CalificacionServicesApplicationTests {
+class CalificacionServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

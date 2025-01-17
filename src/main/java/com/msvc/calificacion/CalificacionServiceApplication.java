@@ -1,13 +1,13 @@
-package com.calificacion.services;
+package com.msvc.calificacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalificacionServicesApplication {
+public class CalificacionServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalificacionServicesApplication.class, args);
+		SpringApplication.run(CalificacionServiceApplication.class, args);
 	}
 
 }
